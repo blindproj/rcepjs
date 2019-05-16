@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+# Optional npm cache directory
+.npm
+dist/
+dist.es5/
+
+.idea
+.DS_Store
